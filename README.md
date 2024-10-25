@@ -27,6 +27,6 @@ This tool enables traders and investors to make informed decisions based on Open
 
 # Steps
 * Clone the Repository:
-* git clone https://github.com/yourusername/NiftyInsights.git
+* git clone [https://github.com/yourusername/NiftyInsights.git](https://github.com/BadakalaYashwanth/NiftyInsights-Softwired-Internship-)
 * cd NiftyInsights
 
