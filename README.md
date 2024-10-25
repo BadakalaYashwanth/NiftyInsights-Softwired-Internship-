@@ -38,9 +38,23 @@ This tool enables traders and investors to make informed decisions based on Open
 
 # Run the Application:
 
-* streamlit run app.py
+* Streamlit run app.py
 
 * Access the Application: Open your web browser and go to http://localhost:8501.
+In this, users can interactively select the strike price range using a slider. The range spans from the minimum to the maximum available strike prices for NIFTY options. This feature allows users to focus on specific price levels of interest, enabling tailored analysis of the Open Interest (OI) data for both call and put options.
+
+![Program Output](https://raw.githubusercontent.com/BadakalaYashwanth/NiftyInsights-Softwired-Internship-/main/OP1.png)
+
+* This output displays the Open Interest for call and put options, represented graphically. The blue line illustrates the Open Interest for call options, while the red line depicts the Open Interest for put options. The X-axis represents the selected strike prices, and the Y-axis indicates the corresponding Open Interest values. This visualization helps users understand market sentiment and trends at different strike prices, facilitating informed decision-making.
+  
+![Program Output](https://github.com/BadakalaYashwanth/NiftyInsights-Softwired-Internship-/blob/ae6d5d3981c2b1edd01e64b7e19b40802ca33aec/OP2.png)
+
+* This  provides a comprehensive view of the Open Interest analysis for the chosen strike price range. Users can easily identify key levels of interest and potential support or resistance points in the market. The application equips traders with the necessary tools to assess market conditions and make data-driven investment choices.
+
+![Program Output](https://github.com/BadakalaYashwanth/NiftyInsights-Softwired-Internship-/blob/ae6d5d3981c2b1edd01e64b7e19b40802ca33aec/OP3.png)
+
+
+
 
 # File Structure
 
