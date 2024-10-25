@@ -11,3 +11,22 @@ This tool enables traders and investors to make informed decisions based on Open
 * Customizable Strike Price Range: Users can adjust the strike price range using a slider for real-time data representation.
 * Data Filtering: Automatically filters options data based on user-selected strike price ranges.
 
+# Technology Stack
+
+* Frontend: Streamlit - A framework for building web applications in Python.
+* Backend: Python - A programming language for data processing and fetching.
+* Data Visualization: Matplotlib - Library for creating static, animated, and interactive visualizations.
+* Data Source: NIFTY Option Chain data is fetched from the NSE India website.
+
+# Installation
+
+# Prerequisites
+
+* Python 3.9 or higher
+* pip (Python package installer)
+
+# Steps
+* Clone the Repository:
+* git clone https://github.com/yourusername/NiftyInsights.git
+* cd NiftyInsights
+
